@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+body {
+  background-color: #535766;
+  width: 100%;
+}
+  
+.header {
+  /* top: 0; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  background-color: #24252a;
+  width:100%;
+  padding:2em;
+}
+
+.logo {
+  order: 3;
+  margin-left: auto;
+  padding:25px;
+}
+
+nav {
+  order: 1;
+}
+
+.nav__links a,
+.cta,
+.overlay__content a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: white;
+  text-decoration: none;
+}
+
+.nav__links {
+  list-style: none;
+  display: flex;
+  font-size: 16px;
+}
+
+
+.nav__links li {
+  padding: 5px;
+}
+
+.nav__links li:nth-child(1) {
+  padding: 10px;
+}
+
+.nav__links li a {
+  transition: all 0.3s ease 0s;
+}
+
+.nav__links li a:hover {
+  color: #FDDA00;
+  /* text-align: center;
+  display: flex;
+  justify-content: center; */
+}
+
+.cta {
+  order: 2;
+  margin-left: 20px;
+  background-color: #28538C;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-align: center;
+}
+
+.cta:hover {
+  background-color: #193e6e;
+  color: #FDDA00;
+}
+
+.cta2 {
+  order: 2;
+  margin-left: 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-align: center;
+}
+
+.cta2:hover {
+  background-color: #193e6e;
+  color: #FDDA00;
+}
+
+.cardRow{
+  margin-top: 10%;
+  padding: 5px;
+}
+
+.btnRow{
+  padding: 5px;
+}

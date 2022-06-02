@@ -1,0 +1,355 @@
+{
+    "cards": {
+      "0": {
+        "def": "是",
+        "exinfo": "shì",
+        "id": 1,
+        "subject": "chinese",
+        "word": "to be"
+      },
+      "1": {
+        "def": "不",
+        "exinfo": "bù",
+        "id": 2,
+        "subject": "chinese",
+        "word": "not"
+      },
+      "2": {
+        "def": "人",
+        "exinfo": "rén",
+        "id": 3,
+        "subject": "chinese",
+        "word": "person"
+      },
+      "3": {
+        "def": "我们",
+        "exinfo": "wǒmen",
+        "id": 4,
+        "subject": "chinese",
+        "word": "we"
+      },
+      "4": {
+        "def": "在",
+        "exinfo": "zài",
+        "id": 5,
+        "subject": "chinese",
+        "word": "at"
+      },
+      "5": {
+        "def": "国",
+        "exinfo": "guó",
+        "id": 6,
+        "subject": "chinese",
+        "word": "country"
+      },
+      "6": {
+        "def": "中",
+        "exinfo": "zhōng",
+        "id": 7,
+        "subject": "Chinese",
+        "word": "middle"
+      },
+      "7": {
+        "def": "有",
+        "exinfo": "yǒu",
+        "id": 8,
+        "subject": "chinese",
+        "word": "have"
+      },
+      "8": {
+        "def": "那",
+        "exinfo": "nà",
+        "id": 9,
+        "subject": "chinese",
+        "word": "that"
+      },
+      "9": {
+        "def": "去",
+        "exinfo": "qù",
+        "id": 10,
+        "subject": "chinese",
+        "word": "to go"
+      },
+      "10": {
+        "def": "学",
+        "exinfo": "xué",
+        "id": 11,
+        "subject": "chinese",
+        "word": "to study, to learn"
+      },
+      "11": {
+        "def": "用",
+        "exinfo": "yòng",
+        "id": 12,
+        "subject": "chinese",
+        "word": "to use"
+      },
+      "12": {
+        "def": "面",
+        "exinfo": "miàn",
+        "id": 13,
+        "subject": "chinese",
+        "word": "face, surface"
+      },
+      "13": {
+        "def": "工",
+        "exinfo": "gōng",
+        "id": 14,
+        "subject": "chinese",
+        "word": "work"
+      },
+      "14": {
+        "def": "话",
+        "exinfo": "huà",
+        "id": 15,
+        "subject": "chinese",
+        "word": "speech"
+      },
+      "15": {
+        "def": "很",
+        "exinfo": "hěn",
+        "id": 16,
+        "subject": "chinese",
+        "word": "very, quite"
+      },
+      "16": {
+        "def": "好",
+        "exinfo": "hǎo",
+        "id": 17,
+        "subject": "chinese",
+        "word": "good"
+      },
+      "17": {
+        "def": "明",
+        "exinfo": "míng",
+        "id": 18,
+        "subject": "chinese",
+        "word": "bright, clear"
+      },
+      "18": {
+        "def": "年",
+        "exinfo": "nián",
+        "id": 19,
+        "subject": "chinese",
+        "word": "year"
+      },
+      "19": {
+        "def": "王",
+        "exinfo": "wáng",
+        "id": 20,
+        "subject": "chinese",
+        "word": "king"
+      },
+      "-N2vabOb5e5_Q2tS5ZJs": {
+        "def": "집",
+        "exinfo": "jib",
+        "id": 208,
+        "subject": "korean",
+        "word": "house"
+      },
+      "-N34nlrKHP5s4hvb92Ub": {
+        "def": "학교",
+        "exinfo": "hakyo",
+        "id": 854,
+        "subject": "korean",
+        "word": "School"
+      },
+      "-N34pvrizlb6U-X0wsKo": {
+        "def": "고양이",
+        "exinfo": "koyangi",
+        "id": 824,
+        "subject": "korean",
+        "word": "Cat"
+      },
+      "-N34q7gjtrkE59QCbgB4": {
+        "def": "개",
+        "exinfo": "kae",
+        "id": 171,
+        "subject": "korean",
+        "word": "Dog"
+      },
+      "-N34qLFiqSmm4EsDbU9j": {
+        "def": "새",
+        "exinfo": "sae",
+        "id": 259,
+        "subject": "korean",
+        "word": "Bird"
+      },
+      "-N35lVgilglyGY4iRxiK": {
+        "def": "소년",
+        "exinfo": "so-nyeon",
+        "id": 313,
+        "subject": "korean",
+        "word": "boy"
+      },
+      "-N35lcGslV1dFJiBn7va": {
+        "def": "여자",
+        "exinfo": "yeoja",
+        "id": 76,
+        "subject": "korean",
+        "word": "woman"
+      },
+      "-N35pUpimdMVnfo-a0SJ": {
+        "def": "남자",
+        "exinfo": "namja",
+        "id": 923,
+        "subject": "korean",
+        "word": "man"
+      },
+      "-N35pmwedGVCxbSpm2ts": {
+        "def": "할머니",
+        "exinfo": "halmoni",
+        "id": 686,
+        "subject": "korean",
+        "word": "grandmother"
+      },
+      "-N35qFU0aMrnysT7vrjt": {
+        "def": "할아버지",
+        "exinfo": "haraboji",
+        "id": 431,
+        "subject": "korean",
+        "word": "grandfather"
+      },
+      "-N35tqHLUpqTa0aZfoGG": {
+        "def": "왕",
+        "exinfo": "wang",
+        "id": 375,
+        "subject": "korean",
+        "word": "king"
+      },
+      "-N35xuZaYU9tEQNPOJdd": {
+        "def": "왕비",
+        "exinfo": "wangbi",
+        "id": 372,
+        "subject": "korean",
+        "word": "Empress"
+      },
+      "-N36-Jj9vNSrXHpeaNrB": {
+        "def": "감자",
+        "exinfo": "gamja",
+        "id": 907,
+        "subject": "korean",
+        "word": "Potato"
+      },
+      "-N36lLyPF8Jbc3zledrk": {
+        "def": "게임",
+        "exinfo": "geim",
+        "id": 288,
+        "subject": "korean",
+        "word": "Game"
+      },
+      "-N36melkxq2ivN6EsBey": {
+        "def": "하다",
+        "exinfo": "hada",
+        "id": 841,
+        "subject": "korean",
+        "word": "to do"
+      },
+      "-N36phd6yRPcFXr5oAok": {
+        "def": "먹다",
+        "exinfo": "meokda",
+        "id": 259,
+        "subject": "korean",
+        "word": "to eat"
+      },
+      "-N36qHChJD8iJbdgbsaa": {
+        "def": "춤 추다",
+        "exinfo": "chum chuda",
+        "id": 909,
+        "subject": "korean",
+        "word": "to dance"
+      },
+      "-N36qZWPeSIse3PGBDRf": {
+        "def": "보다",
+        "exinfo": "boda",
+        "id": 129,
+        "subject": "korean",
+        "word": "to see"
+      },
+      "-N36qjgZQ-EA8VDq5xWR": {
+        "def": "맞다",
+        "exinfo": "majda",
+        "id": 471,
+        "subject": "korean",
+        "word": "to be right"
+      },
+      "-N36r-x3avzZWAekMS25": {
+        "def": "바르다",
+        "exinfo": "baruda",
+        "id": 391,
+        "subject": "korean",
+        "word": "to be fast"
+      },
+      "-N36ukz7Jce_UbC81S59": {
+        "def": "바다",
+        "exinfo": "bada",
+        "id": 172,
+        "subject": "korean",
+        "word": "Sea"
+      },
+      "-N36v0WR2_yHk1NWoqga": {
+        "def": "겨울",
+        "exinfo": "kyeoul",
+        "id": 790,
+        "subject": "korean",
+        "word": "Winter"
+      },
+      "-N36vJyPE16QSrfqybBy": {
+        "def": "여름",
+        "exinfo": "yeoreum",
+        "id": 974,
+        "subject": "korean",
+        "word": "Summer"
+      },
+      "-N36vTT1r9Rce_VbNWtb": {
+        "def": "봄",
+        "exinfo": "bom",
+        "id": 227,
+        "subject": "korean",
+        "word": "Spring"
+      },
+      "-N39moX8xyvKvKQ1zq2h": {
+        "def": "분",
+        "exinfo": "bun",
+        "id": 643,
+        "subject": "korean",
+        "word": "Minute"
+      },
+      "-N39ohwHOfTxk4I644aR": {
+        "def": "시간",
+        "exinfo": "shikan",
+        "id": 18,
+        "subject": "korean",
+        "word": "Time"
+      },
+      "-N3FDEAiV14z3B-Yt51S": {
+        "def": "곳",
+        "exinfo": "got",
+        "id": 1653834583419,
+        "subject": "korean",
+        "word": "Place"
+      },
+      "-N3FDNyW3ihVtW_JMo7i": {
+        "def": "낮다",
+        "exinfo": "najda",
+        "id": 1653834623534,
+        "subject": "korean",
+        "word": "to be low"
+      },
+      "-N3FIdaurGKTj5kgnmFx": {
+        "def": "어두다",
+        "exinfo": "eoduda",
+        "id": 1653836002375,
+        "subject": "korean",
+        "word": "To be dark"
+      },
+      "-N3FJJWB5RMrrcU2FvF3": {
+        "def": "영원히",
+        "exinfo": "yeongwonhi",
+        "id": 1653836178137,
+        "subject": "korean",
+        "word": "Forever"
+      }
+    },
+    "subjects": ["chinese", "korean"]
+  }
